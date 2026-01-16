@@ -8,11 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+AI-Powered+Solutions+%F0%9F%9A%80;AWS+%7C+React+%7C+Python+%7C+Machine+Learning;Turning+Ideas+into+Reality+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
-<!-- Profile Views -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=kumarharsh21112003&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
-</p>
-
 </div>
 
 ---
