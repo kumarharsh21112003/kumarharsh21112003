@@ -8,12 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+AI-Powered+Solutions+%F0%9F%9A%80;AWS+%7C+React+%7C+Python+%7C+Machine+Learning;Turning+Ideas+into+Reality+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
-<!-- Profile Views & Followers -->
+<!-- Profile Views -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=kumarharsh21112003&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://github.com/kumarharsh21112003?tab=followers">
-    <img src="https://img.shields.io/github/followers/kumarharsh21112003?label=Followers&style=for-the-badge&color=7C3AED" alt="Followers"/>
-  </a>
 </p>
 
 </div>
@@ -59,7 +56,6 @@ const kumarHarsh = {
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🧠 AI/ML
 
@@ -67,54 +63,44 @@ const kumarHarsh = {
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 🌐 Frontend
+### 🌐 Frontend & Backend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
-### 🔧 Backend & Database
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## � Featured Projects
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kumarharsh21112003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarharsh21112003&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7C3AED&fire=FF6B6B&currStreakLabel=00D9FF" height="180"/>
-
-</div>
+| Project                                                          | Description                                | Tech                                 |
+| :--------------------------------------------------------------- | :----------------------------------------- | :----------------------------------- |
+| [**CrisisNet**](https://github.com/kumarharsh21112003/crisisnet) | AI-Powered Emergency Mesh Network          | Next.js, TypeScript, NLP, Blockchain |
+| **TradeSense AI**                                                | Stock Trading Platform with 7 ML Models    | Next.js, LSTM, Yahoo Finance API     |
+| **AQUA Face Lite**                                               | Face Verification System (98% accuracy)    | Python, TensorFlow, OpenCV, Flask    |
+| **Alzheimer Prediction**                                         | CNN-based MRI Scan Analysis (94% accuracy) | TensorFlow, Keras, Streamlit         |
 
 ---
 
-## 🚀 Featured Projects
+## � Certifications
 
-<div align="center">
-
-[![CrisisNet](https://github-readme-stats.vercel.app/api/pin/?username=kumarharsh21112003&repo=crisisnet&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED)](https://github.com/kumarharsh21112003/crisisnet)
-
-</div>
+- ✅ **AWS Cloud Foundations** - Amazon Web Services
+- ✅ **AWS Cloud Architecting** - Amazon Web Services
+- ✅ **IBM Cloud Essentials** - IBM
+- ✅ **Cybersecurity Analyst Simulation** - TCS
+- ✅ **Software Engineering Simulation** - Wells Fargo
 
 ---
 
