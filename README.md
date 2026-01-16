@@ -12,30 +12,36 @@
 
 ---
 
-## 🧑‍💻 About Me
+## � About Me
 
-```javascript
-const kumarHarsh = {
-  pronouns: "He" | "Him",
-  location: "Bihar, India 🇮🇳",
-  education: "B.Tech CSE @ KIIT University (2022-2026)",
+<table>
+<tr>
+<td width="50%">
 
-  currentlyWorking: "AI/ML & Full Stack Projects",
-  currentlyLearning: ["LLMs", "System Design", "Kubernetes"],
-  askMeAbout: ["Cloud", "AI/ML", "Web Dev", "Android"],
+### 🎓 Who Am I?
 
-  funFact: "I debug with console.log() and I'm proud of it! 😄",
-};
+```yaml
+Name: Kumar Harsh
+Role: Full Stack Developer & AI Engineer
+Location: Bihar, India 🇮🇳
+Education: B.Tech CSE @ KIIT (2022-2026)
 ```
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+### ⚡ Quick Facts
 
-- 🔭 **Currently Building:** AI-Powered Applications
-- 🌱 **Learning:** System Design & Cloud Architecture
-- 👯 **Looking to:** Collaborate on Open Source
-- 💬 **Ask me about:** AWS, React, Python, ML
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/kumar-harsh-99b4982b1/)
-- ⚡ **Fun fact:** Started coding with GTA V mods!
+- 🔭 Building **AI-Powered Applications**
+- ☁️ Ex-Intern at **AWS** & **Google**
+- 🎮 Started coding with **GTA V mods**
+- 🧠 Learning **LLMs & System Design**
+
+</td>
+<td width="50%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
