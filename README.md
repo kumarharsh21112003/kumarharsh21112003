@@ -78,7 +78,7 @@ const kumarHarsh = {
 
 ---
 
-## � Featured Projects
+## 🚀 Featured Projects
 
 | Project                                                          | Description                                | Tech                                 |
 | :--------------------------------------------------------------- | :----------------------------------------- | :----------------------------------- |
@@ -86,16 +86,6 @@ const kumarHarsh = {
 | **TradeSense AI**                                                | Stock Trading Platform with 7 ML Models    | Next.js, LSTM, Yahoo Finance API     |
 | **AQUA Face Lite**                                               | Face Verification System (98% accuracy)    | Python, TensorFlow, OpenCV, Flask    |
 | **Alzheimer Prediction**                                         | CNN-based MRI Scan Analysis (94% accuracy) | TensorFlow, Keras, Streamlit         |
-
----
-
-## � Certifications
-
-- ✅ **AWS Cloud Foundations** - Amazon Web Services
-- ✅ **AWS Cloud Architecting** - Amazon Web Services
-- ✅ **IBM Cloud Essentials** - IBM
-- ✅ **Cybersecurity Analyst Simulation** - TCS
-- ✅ **Software Engineering Simulation** - Wells Fargo
 
 ---
 
