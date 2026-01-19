@@ -86,12 +86,13 @@ Education: B.Tech CSE @ KIIT (2022-2026)
 
 ## 🚀 Featured Projects
 
-| Project                                                          | Description                                | Tech                                 |
-| :--------------------------------------------------------------- | :----------------------------------------- | :----------------------------------- |
-| [**CrisisNet**](https://github.com/kumarharsh21112003/crisisnet) | AI-Powered Emergency Mesh Network          | Next.js, TypeScript, NLP, Blockchain |
-| **TradeSense AI**                                                | Stock Trading Platform with 7 ML Models    | Next.js, LSTM, Yahoo Finance API     |
-| **AQUA Face Lite**                                               | Face Verification System (98% accuracy)    | Python, TensorFlow, OpenCV, Flask    |
-| **Alzheimer Prediction**                                         | CNN-based MRI Scan Analysis (94% accuracy) | TensorFlow, Keras, Streamlit         |
+| Project                                                           | Description                                | Tech                                  |
+| :---------------------------------------------------------------- | :----------------------------------------- | :------------------------------------ |
+| [**MusicFlow**](https://github.com/kumarharsh21112003/Music-Flow) | Premium Music Streaming PWA with 3D Audio  | React, TypeScript, Web Audio API, PWA |
+| [**CrisisNet**](https://github.com/kumarharsh21112003/crisisnet)  | AI-Powered Emergency Mesh Network          | Next.js, TypeScript, NLP, Blockchain  |
+| **TradeSense AI**                                                 | Stock Trading Platform with 7 ML Models    | Next.js, LSTM, Yahoo Finance API      |
+| **AQUA Face Lite**                                                | Face Verification System (98% accuracy)    | Python, TensorFlow, OpenCV, Flask     |
+| **Alzheimer Prediction**                                          | CNN-based MRI Scan Analysis (94% accuracy) | TensorFlow, Keras, Streamlit          |
 
 ---
 
